@@ -14,7 +14,7 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://aaboqmoyzybyky664vvi6ekyqea6q888.node.ppio.cloud:31747/fsa167af8c.a.bdydns.com/1435501072/Firmware/Flyme/meizu17_Pro/9.2.0.3/cn/20220424185838/7c4180a8/update.zip
+  ROM_URL: https://firmware.meizu.com/Firmware/Flyme/meizu17_Pro/9.2.0.2/cn/20220114164824/0877c385/update.zip
   ROM_NAME: Generic
   BUILD_TYPE: ab
   TZ: Asia/Shanghai
